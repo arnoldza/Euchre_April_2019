@@ -1,0 +1,78 @@
+My strategy for creating the AmazingPlayer is as follows:
+
+    I realized that there were six main functions of the player to refine:
+    
+    These were:
+        
+        1) Choosing the card to remove a card from deck if player is the dealer
+        2) What card to play if player is leading the trick
+        3) What card to play if player is NOT leading the trick
+        4) Choosing if to play alone before round if player is dealer
+        5) Making decisions during first round of bidding
+        6) Making decisions during second round of bidding
+        
+        
+    Algorithms:
+    
+        1) To discard a card while the dealer, AmazingPlayer follows these 
+               steps:
+            A) Only considers cards in hand that are NOT trump
+            B) Checks hand for 9's, discards it
+            C) Checks hand for 10's discards it
+            D) Looks through hand for groups of similar suits, if one is on 
+                   their own, discard it
+            E) Else, discards lowest ranking card in hand
+            
+        2) The algorithm to play a card while leading the trick is simple, yet
+               effective. Follows these steps:
+            A) If player has either bower, play it, beginning with left
+            B) If player has off suit ace or king, play it, beginning with king
+            C) Else, play random card
+            
+        3) For the algorithm to play a card while NOT leading the trick, I
+               mixed the most effective parts of my own strategy with the 
+               strategy player's existing strategy. Follows these steps:
+            A) If a player has a jack of the leading suit, play it (I believe 
+                   this is effective as it balances out the odds of each 
+                   teammate using both their best cards at once)
+            B) If player is able to follow suit, play the highest ranking card 
+                   possible
+            C) If player cannot follow suit, if player has trump cards, play 
+                   lowest ranking trump card, otherwise play lowest ranking 
+                   card possible
+            
+        4) The algorithm for deciding whether or not to play alone is simple, 
+               and relies on playing it safe. Follows these steps:
+            A) If player has 4 trump cards, play alone
+            B) If player has both bowers and a trump card of rank ace, king, or
+                   queen, play alone
+            C) Else, do not play alone
+            
+        5) The algorithm for whether or not to call trump during the first 
+               round of bidding is based off a point system. Follow these 
+               steps:
+            A) For each card in deck, add the following points:
+                1) If card is a left or right bower, add three points
+                2) If card is a face card of the trump, add two points
+                3) If card is a 9 or 10 of trump, add one point
+            B) If total points are 6 or more, pick up kitty
+            C) Else, pass
+            
+        6) The algorithm for calling trump during the second round of bidding 
+               is also based off a point system. Follow these steps:
+            A) For each card in deck, add the following points:
+                1) If card is a left or right bower, add three points to 
+                       corresponding suit point total
+                2) If card is a face card of the trump, add two points to 
+                       corresponding suit point total
+                3) If card is a 9 or 10 of trump, add one point to 
+                       corresponding suit point total
+            B) If suit point total is 5 or more, call that suit
+            C) Else, pass
+            
+    
+In conclusion, I found that these algorithms were very effective against the 
+strategy player team. In total, after playing 2000 rounds, I found that the 
+amazing team won 77.1% of all games, winning nearly 4 of every 5 games played. 
+If you have any further questions, feel free to ask!
+    

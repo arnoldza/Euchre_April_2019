@@ -1,0 +1,1652 @@
+
+Player 1 and Player 3 are Amazing Players
+
+Player 2 and Player 4 are Strategy Players
+
+Team One -> Player 1 and Player 3
+
+Team Two -> Player 2 and Player 4
+
+
+        
+        
+     TURN = 1
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  
+                
+      Player 2              Player 4
+                             Dealer
+                
+                 Player 1
+                  Lead
+
+
+
+* Player 4 deals the cards
+
+
+* Player 1 Chose Clubs
+
+Trump -> Clubs
+
+
+Player 1's Hand = [J♦, 10♠, 9♥, J♠, A♣]
+Player 2's Hand = [9♣, 10♣, A♥, K♦, A♠]
+Player 3's Hand = [K♥, J♣, 10♥, Q♦, Q♠]
+Player 4's Hand = [Q♣, 10♦, Q♥, 9♠, J♥]
+
+
+* Player 1 leads for this turn.
+
+* The dealer (Player 4) decided to NOT play alone.
+
+
+Trick 1
+
+Player 1 played J♠
+Player 2 played A♠
+Player 3 played Q♠
+Player 4 played 9♠
+
+Player 1 wins Trick!!!
+
+
+
+Trick 2
+
+Player 1 played J♦
+Player 2 played K♦
+Player 3 played Q♦
+Player 4 played 10♦
+
+Player 2 wins Trick!!!
+
+
+
+Trick 3
+
+Player 2 played 9♣
+Player 3 played J♣
+Player 4 played Q♣
+Player 1 played A♣
+
+Player 3 wins Trick!!!
+
+
+
+Trick 4
+
+Player 3 played J♣
+Player 4 played J♥
+Player 1 played 9♥
+Player 2 played 10♣
+
+Player 3 wins Trick!!!
+
+
+
+Trick 5
+
+Player 3 played K♥
+Player 4 played Q♥
+Player 1 played 10♠
+Player 2 played A♥
+
+Player 2 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 1
+
+Team Two's Points -> 0
+
+
+        
+        
+     TURN = 2
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  
+                
+      Player 2              Player 4
+       Lead                      
+                
+                 Player 1
+                  Dealer
+
+
+
+* Player 1 deals the cards
+
+
+* Player 4 Chose Hearts
+
+Trump -> Hearts
+
+
+Player 1's Hand = [10♠, A♣, J♦, Q♥, 10♦]
+Player 2's Hand = [Q♠, 10♥, A♥, A♦, J♠]
+Player 3's Hand = [10♣, J♣, 9♥, K♥, K♦]
+Player 4's Hand = [K♣, 9♦, Q♦, Q♣, A♠]
+
+
+* Player 2 leads for this turn.
+
+* The dealer (Player 1) decided to NOT play alone.
+
+
+Trick 1
+
+Player 2 played 10♥
+Player 3 played K♥
+Player 4 played A♠
+Player 1 played J♦
+
+Player 1 wins Trick!!!
+
+
+
+Trick 2
+
+Player 1 played A♣
+Player 2 played A♥
+Player 3 played J♣
+Player 4 played Q♣
+
+Player 2 wins Trick!!!
+
+
+
+Trick 3
+
+Player 2 played J♠
+Player 3 played 9♥
+Player 4 played Q♦
+Player 1 played 10♠
+
+Player 3 wins Trick!!!
+
+
+
+Trick 4
+
+Player 3 played K♦
+Player 4 played 9♦
+Player 1 played 10♦
+Player 2 played A♦
+
+Player 2 wins Trick!!!
+
+
+
+Trick 5
+
+Player 2 played Q♠
+Player 3 played 10♣
+Player 4 played K♣
+Player 1 played Q♥
+
+Player 1 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 2
+
+Team Two's Points -> 0
+
+
+        
+        
+     TURN = 3
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  Lead
+                
+      Player 2              Player 4
+       Dealer                      
+                
+                 Player 1
+                  
+
+
+
+* Player 2 deals the cards
+
+
+* Player 3 Took Kitty
+
+Trump -> Clubs
+
+
+Player 1's Hand = [A♣, A♥, J♠, 9♦, Q♦]
+Player 2's Hand = [10♠, K♦, 10♥, J♣, A♠]
+Player 3's Hand = [Q♣, Q♠, 10♦, J♦, J♥]
+Player 4's Hand = [A♦, 9♥, K♠, 9♠, K♥]
+
+
+* Player 3 leads for this turn.
+
+* The dealer (Player 2) decided to NOT play alone.
+
+
+Trick 1
+
+Player 3 played J♥
+Player 4 played 9♥
+Player 1 played A♥
+Player 2 played 10♥
+
+Player 1 wins Trick!!!
+
+
+
+Trick 2
+
+Player 1 played J♠
+Player 2 played 10♠
+Player 3 played Q♠
+Player 4 played 9♠
+
+Player 1 wins Trick!!!
+
+
+
+Trick 3
+
+Player 1 played Q♦
+Player 2 played K♦
+Player 3 played J♦
+Player 4 played A♦
+
+Player 4 wins Trick!!!
+
+
+
+Trick 4
+
+Player 4 played K♠
+Player 1 played A♣
+Player 2 played A♠
+Player 3 played Q♣
+
+Player 1 wins Trick!!!
+
+
+
+Trick 5
+
+Player 1 played 9♦
+Player 2 played J♣
+Player 3 played J♦
+Player 4 played K♥
+
+Player 2 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 3
+
+Team Two's Points -> 0
+
+
+        
+        
+     TURN = 4
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  Dealer
+                
+      Player 2              Player 4
+                             Lead
+                
+                 Player 1
+                  
+
+
+
+* Player 3 deals the cards
+
+
+* Player 1 Chose Hearts
+
+Trump -> Hearts
+
+
+Player 1's Hand = [K♦, J♣, 9♥, 10♠, Q♠]
+Player 2's Hand = [9♣, A♣, Q♦, J♠, K♠]
+Player 3's Hand = [A♠, 10♦, 9♠, K♥, A♦]
+Player 4's Hand = [A♥, Q♣, Q♥, 9♦, J♥]
+
+
+* Player 4 leads for this turn.
+
+* The dealer (Player 3) decided to NOT play alone.
+
+
+Trick 1
+
+Player 4 played Q♥
+Player 1 played 9♥
+Player 2 played K♠
+Player 3 played K♥
+
+Player 3 wins Trick!!!
+
+
+
+Trick 2
+
+Player 3 played A♠
+Player 4 played A♥
+Player 1 played Q♠
+Player 2 played J♠
+
+Player 4 wins Trick!!!
+
+
+
+Trick 3
+
+Player 4 played J♥
+Player 1 played 10♠
+Player 2 played Q♦
+Player 3 played 9♠
+
+Player 4 wins Trick!!!
+
+
+
+Trick 4
+
+Player 4 played 9♦
+Player 1 played K♦
+Player 2 played 9♣
+Player 3 played A♦
+
+Player 3 wins Trick!!!
+
+
+
+Trick 5
+
+Player 3 played 10♦
+Player 4 played Q♣
+Player 1 played J♣
+Player 2 played A♣
+
+Player 2 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 3
+
+Team Two's Points -> 1
+
+
+        
+        
+     TURN = 5
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  
+                
+      Player 2              Player 4
+                             Dealer
+                
+                 Player 1
+                  Lead
+
+
+
+* Player 4 deals the cards
+
+
+Player 1's Hand = [9♠, K♥, J♠, 10♦, Q♦]
+Player 2's Hand = [10♠, 9♦, J♣, A♥, J♦]
+Player 3's Hand = [9♣, K♦, Q♠, 10♥, 10♣]
+Player 4's Hand = [J♥, K♠, A♦, 9♥, A♠]
+
+
+All players passed both rounds, new turn begins
+
+-----------------------
+
+Team One's Points -> 3
+
+Team Two's Points -> 1
+
+
+        
+        
+     TURN = 6
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  
+                
+      Player 2              Player 4
+       Lead                      
+                
+                 Player 1
+                  Dealer
+
+
+
+* Player 1 deals the cards
+
+
+* Player 2 Took Kitty
+
+Trump -> Spades
+
+
+Player 1's Hand = [Q♦, K♦, 10♣, K♥, 10♠]
+Player 2's Hand = [Q♥, Q♠, J♥, J♠, A♥]
+Player 3's Hand = [A♦, J♣, K♠, J♦, K♣]
+Player 4's Hand = [10♥, A♣, 10♦, 9♥, 9♠]
+
+
+* Player 2 leads for this turn.
+
+* The dealer (Player 1) decided to NOT play alone.
+
+
+Trick 1
+
+Player 2 played J♠
+Player 3 played J♣
+Player 4 played 9♠
+Player 1 played 10♠
+
+Player 2 wins Trick!!!
+
+
+
+Trick 2
+
+Player 2 played Q♠
+Player 3 played K♠
+Player 4 played A♣
+Player 1 played 10♣
+
+Player 3 wins Trick!!!
+
+
+
+Trick 3
+
+Player 3 played K♣
+Player 4 played 9♥
+Player 1 played Q♦
+Player 2 played Q♥
+
+Player 3 wins Trick!!!
+
+
+
+Trick 4
+
+Player 3 played A♦
+Player 4 played 10♦
+Player 1 played K♦
+Player 2 played J♥
+
+Player 3 wins Trick!!!
+
+
+
+Trick 5
+
+Player 3 played J♦
+Player 4 played 10♥
+Player 1 played K♥
+Player 2 played A♥
+
+Player 2 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 4
+
+Team Two's Points -> 1
+
+
+        
+        
+     TURN = 7
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  Lead
+                
+      Player 2              Player 4
+       Dealer                      
+                
+                 Player 1
+                  
+
+
+
+* Player 2 deals the cards
+
+
+* Player 4 Chose Diamonds
+
+Trump -> Diamonds
+
+
+Player 1's Hand = [J♠, 10♠, 10♥, K♥, 9♠]
+Player 2's Hand = [Q♥, J♥, J♦, K♦, 9♣]
+Player 3's Hand = [A♣, A♥, K♣, Q♠, A♦]
+Player 4's Hand = [10♣, 10♦, A♠, Q♦, Q♣]
+
+
+* Player 3 leads for this turn.
+
+* The dealer (Player 2) decided to NOT play alone.
+
+
+Trick 1
+
+Player 3 played K♣
+Player 4 played 10♣
+Player 1 played 9♠
+Player 2 played 9♣
+
+Player 3 wins Trick!!!
+
+
+
+Trick 2
+
+Player 3 played A♣
+Player 4 played Q♣
+Player 1 played 10♠
+Player 2 played J♥
+
+Player 2 wins Trick!!!
+
+
+
+Trick 3
+
+Player 2 played J♦
+Player 3 played A♦
+Player 4 played 10♦
+Player 1 played 10♥
+
+Player 2 wins Trick!!!
+
+
+
+Trick 4
+
+Player 2 played K♦
+Player 3 played Q♠
+Player 4 played Q♦
+Player 1 played J♠
+
+Player 2 wins Trick!!!
+
+
+
+Trick 5
+
+Player 2 played Q♥
+Player 3 played A♥
+Player 4 played A♠
+Player 1 played K♥
+
+Player 3 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 4
+
+Team Two's Points -> 2
+
+
+        
+        
+     TURN = 8
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  Dealer
+                
+      Player 2              Player 4
+                             Lead
+                
+                 Player 1
+                  
+
+
+
+* Player 3 deals the cards
+
+
+* Player 3 Took Kitty
+
+Trump -> Hearts
+
+
+Player 1's Hand = [Q♠, 9♣, J♣, 10♠, K♠]
+Player 2's Hand = [9♦, J♥, A♥, 9♥, J♦]
+Player 3's Hand = [K♦, A♦, Q♣, K♣, 10♥]
+Player 4's Hand = [Q♥, 10♣, K♥, A♣, J♠]
+
+
+* Player 4 leads for this turn.
+
+* The dealer (Player 3) decided to NOT play alone.
+
+
+Trick 1
+
+Player 4 played Q♥
+Player 1 played 9♣
+Player 2 played J♥
+Player 3 played 10♥
+
+Player 2 wins Trick!!!
+
+
+
+Trick 2
+
+Player 2 played 9♥
+Player 3 played Q♣
+Player 4 played K♥
+Player 1 played 10♠
+
+Player 4 wins Trick!!!
+
+
+
+Trick 3
+
+Player 4 played 10♣
+Player 1 played J♣
+Player 2 played 9♦
+Player 3 played K♣
+
+Player 3 wins Trick!!!
+
+
+
+Trick 4
+
+Player 3 played K♦
+Player 4 played A♣
+Player 1 played J♣
+Player 2 played J♦
+
+Player 2 wins Trick!!!
+
+
+
+Trick 5
+
+Player 2 played J♥
+Player 3 played A♦
+Player 4 played J♠
+Player 1 played Q♠
+
+Player 2 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 4
+
+Team Two's Points -> 3
+
+
+        
+        
+     TURN = 9
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  
+                
+      Player 2              Player 4
+                             Dealer
+                
+                 Player 1
+                  Lead
+
+
+
+* Player 4 deals the cards
+
+
+* Player 1 Took Kitty
+
+Trump -> Clubs
+
+
+Player 1's Hand = [J♣, K♦, A♠, Q♥, Q♣]
+Player 2's Hand = [9♦, J♠, 10♣, J♦, J♥]
+Player 3's Hand = [Q♦, K♠, 10♥, 9♠, Q♠]
+Player 4's Hand = [A♥, A♣, 10♠, K♣, K♥]
+
+
+* Player 1 leads for this turn.
+
+* The dealer (Player 4) decided to NOT play alone.
+
+
+Trick 1
+
+Player 1 played J♣
+Player 2 played 10♣
+Player 3 played 9♠
+Player 4 played A♣
+
+Player 1 wins Trick!!!
+
+
+
+Trick 2
+
+Player 1 played K♦
+Player 2 played J♦
+Player 3 played Q♦
+Player 4 played K♥
+
+Player 1 wins Trick!!!
+
+
+
+Trick 3
+
+Player 1 played A♠
+Player 2 played J♠
+Player 3 played K♠
+Player 4 played 10♠
+
+Player 2 wins Trick!!!
+
+
+
+Trick 4
+
+Player 2 played J♠
+Player 3 played Q♠
+Player 4 played A♥
+Player 1 played Q♣
+
+Player 2 wins Trick!!!
+
+
+
+Trick 5
+
+Player 2 played 9♦
+Player 3 played 10♥
+Player 4 played K♣
+Player 1 played Q♥
+
+Player 4 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 4
+
+Team Two's Points -> 5
+
+
+        
+        
+     TURN = 10
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  
+                
+      Player 2              Player 4
+       Lead                      
+                
+                 Player 1
+                  Dealer
+
+
+
+* Player 1 deals the cards
+
+
+* Player 1 Chose Hearts
+
+Trump -> Hearts
+
+
+Player 1's Hand = [10♣, 10♦, 9♣, J♣, J♥]
+Player 2's Hand = [K♠, A♥, 10♥, 9♦, J♦]
+Player 3's Hand = [10♠, Q♠, K♦, A♦, Q♥]
+Player 4's Hand = [A♠, Q♦, 9♥, A♣, J♠]
+
+
+* Player 2 leads for this turn.
+
+* The dealer (Player 1) decided to NOT play alone.
+
+
+Trick 1
+
+Player 2 played 10♥
+Player 3 played Q♥
+Player 4 played 9♥
+Player 1 played J♥
+
+Player 1 wins Trick!!!
+
+
+
+Trick 2
+
+Player 1 played J♥
+Player 2 played A♥
+Player 3 played 10♠
+Player 4 played A♠
+
+Player 1 wins Trick!!!
+
+
+
+Trick 3
+
+Player 1 played 10♦
+Player 2 played J♦
+Player 3 played A♦
+Player 4 played Q♦
+
+Player 2 wins Trick!!!
+
+
+
+Trick 4
+
+Player 2 played J♦
+Player 3 played K♦
+Player 4 played J♠
+Player 1 played 9♣
+
+Player 2 wins Trick!!!
+
+
+
+Trick 5
+
+Player 2 played 9♦
+Player 3 played Q♠
+Player 4 played A♣
+Player 1 played 10♣
+
+Player 4 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 4
+
+Team Two's Points -> 6
+
+
+        
+        
+     TURN = 11
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  Lead
+                
+      Player 2              Player 4
+       Dealer                      
+                
+                 Player 1
+                  
+
+
+
+* Player 2 deals the cards
+
+
+* Player 1 Took Kitty
+
+Trump -> Diamonds
+
+
+Player 1's Hand = [9♥, 10♥, 10♣, K♦, 9♣]
+Player 2's Hand = [9♠, J♣, J♦, A♠, A♣]
+Player 3's Hand = [J♥, A♦, Q♠, 10♦, Q♥]
+Player 4's Hand = [J♠, Q♦, K♠, K♣, 10♠]
+
+
+* Player 3 leads for this turn.
+
+* The dealer (Player 2) decided to NOT play alone.
+
+
+Trick 1
+
+Player 3 played J♥
+Player 4 played K♠
+Player 1 played 10♥
+Player 2 played J♦
+
+Player 2 wins Trick!!!
+
+
+
+Trick 2
+
+Player 2 played A♠
+Player 3 played Q♠
+Player 4 played J♠
+Player 1 played K♦
+
+Player 1 wins Trick!!!
+
+
+
+Trick 3
+
+Player 1 played 9♣
+Player 2 played J♣
+Player 3 played 10♦
+Player 4 played K♣
+
+Player 3 wins Trick!!!
+
+
+
+Trick 4
+
+Player 3 played Q♥
+Player 4 played Q♦
+Player 1 played 9♥
+Player 2 played A♣
+
+Player 4 wins Trick!!!
+
+
+
+Trick 5
+
+Player 4 played 10♠
+Player 1 played 10♣
+Player 2 played 9♠
+Player 3 played A♦
+
+Player 3 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 5
+
+Team Two's Points -> 6
+
+
+        
+        
+     TURN = 12
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  Dealer
+                
+      Player 2              Player 4
+                             Lead
+                
+                 Player 1
+                  
+
+
+
+* Player 3 deals the cards
+
+
+* Player 1 Chose Hearts
+
+Trump -> Hearts
+
+
+Player 1's Hand = [J♣, K♣, 10♦, 9♥, K♦]
+Player 2's Hand = [A♦, 10♠, J♠, 9♠, Q♦]
+Player 3's Hand = [J♦, 10♥, Q♣, K♥, K♠]
+Player 4's Hand = [A♠, Q♠, A♥, J♥, Q♥]
+
+
+* Player 4 leads for this turn.
+
+* The dealer (Player 3) decided to NOT play alone.
+
+
+Trick 1
+
+Player 4 played J♥
+Player 1 played 9♥
+Player 2 played A♦
+Player 3 played J♦
+
+Player 4 wins Trick!!!
+
+
+
+Trick 2
+
+Player 4 played A♥
+Player 1 played 10♦
+Player 2 played J♠
+Player 3 played K♥
+
+Player 4 wins Trick!!!
+
+
+
+Trick 3
+
+Player 4 played Q♥
+Player 1 played J♣
+Player 2 played 9♠
+Player 3 played 10♥
+
+Player 4 wins Trick!!!
+
+
+
+Trick 4
+
+Player 4 played A♠
+Player 1 played K♣
+Player 2 played 10♠
+Player 3 played K♠
+
+Player 4 wins Trick!!!
+
+
+
+Trick 5
+
+Player 4 played Q♠
+Player 1 played K♦
+Player 2 played Q♦
+Player 3 played Q♣
+
+Player 1 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 5
+
+Team Two's Points -> 7
+
+
+        
+        
+     TURN = 13
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  
+                
+      Player 2              Player 4
+                             Dealer
+                
+                 Player 1
+                  Lead
+
+
+
+* Player 4 deals the cards
+
+
+Player 1's Hand = [9♠, J♦, K♥, 10♣, 10♠]
+Player 2's Hand = [Q♠, A♦, 10♦, 9♥, A♥]
+Player 3's Hand = [9♦, K♠, A♣, Q♣, J♥]
+Player 4's Hand = [J♣, 9♣, A♠, Q♦, Q♥]
+
+
+All players passed both rounds, new turn begins
+
+-----------------------
+
+Team One's Points -> 5
+
+Team Two's Points -> 7
+
+
+        
+        
+     TURN = 14
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  
+                
+      Player 2              Player 4
+       Lead                      
+                
+                 Player 1
+                  Dealer
+
+
+
+* Player 1 deals the cards
+
+
+* Player 2 Took Kitty
+
+Trump -> Spades
+
+
+Player 1's Hand = [10♦, 10♥, A♦, 10♣, 10♠]
+Player 2's Hand = [K♥, Q♥, J♦, 9♥, A♥]
+Player 3's Hand = [J♠, Q♠, J♥, A♠, K♦]
+Player 4's Hand = [A♣, Q♣, K♣, 9♠, J♣]
+
+
+* Player 2 leads for this turn.
+
+* The dealer (Player 1) decided to NOT play alone.
+
+
+Trick 1
+
+Player 2 played K♥
+Player 3 played J♥
+Player 4 played Q♣
+Player 1 played 10♥
+
+Player 2 wins Trick!!!
+
+
+
+Trick 2
+
+Player 2 played 9♥
+Player 3 played J♥
+Player 4 played 9♠
+Player 1 played 10♠
+
+Player 1 wins Trick!!!
+
+
+
+Trick 3
+
+Player 1 played A♦
+Player 2 played J♦
+Player 3 played K♦
+Player 4 played K♣
+
+Player 1 wins Trick!!!
+
+
+
+Trick 4
+
+Player 1 played 10♦
+Player 2 played J♦
+Player 3 played Q♠
+Player 4 played A♣
+
+Player 3 wins Trick!!!
+
+
+
+Trick 5
+
+Player 3 played J♠
+Player 4 played J♣
+Player 1 played 10♣
+Player 2 played Q♥
+
+Player 3 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 6
+
+Team Two's Points -> 7
+
+
+        
+        
+     TURN = 15
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  Lead
+                
+      Player 2              Player 4
+       Dealer                      
+                
+                 Player 1
+                  
+
+
+
+* Player 2 deals the cards
+
+
+* Player 1 Chose Diamonds
+
+Trump -> Diamonds
+
+
+Player 1's Hand = [9♠, Q♦, K♠, J♣, 9♦]
+Player 2's Hand = [Q♠, A♠, 10♦, J♠, A♥]
+Player 3's Hand = [A♦, Q♣, K♦, J♥, 9♣]
+Player 4's Hand = [10♣, 10♠, A♣, Q♥, 9♥]
+
+
+* Player 3 leads for this turn.
+
+* The dealer (Player 2) decided to NOT play alone.
+
+
+Trick 1
+
+Player 3 played J♥
+Player 4 played 9♥
+Player 1 played 9♦
+Player 2 played A♥
+
+Player 3 wins Trick!!!
+
+
+
+Trick 2
+
+Player 3 played Q♣
+Player 4 played A♣
+Player 1 played J♣
+Player 2 played Q♠
+
+Player 4 wins Trick!!!
+
+
+
+Trick 3
+
+Player 4 played Q♥
+Player 1 played Q♦
+Player 2 played 10♦
+Player 3 played K♦
+
+Player 3 wins Trick!!!
+
+
+
+Trick 4
+
+Player 3 played A♦
+Player 4 played 10♣
+Player 1 played 9♠
+Player 2 played J♠
+
+Player 3 wins Trick!!!
+
+
+
+Trick 5
+
+Player 3 played 9♣
+Player 4 played 10♠
+Player 1 played J♣
+Player 2 played A♠
+
+Player 2 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 7
+
+Team Two's Points -> 7
+
+
+        
+        
+     TURN = 16
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  Dealer
+                
+      Player 2              Player 4
+                             Lead
+                
+                 Player 1
+                  
+
+
+
+* Player 3 deals the cards
+
+
+* Player 2 Chose Clubs
+
+Trump -> Clubs
+
+
+Player 1's Hand = [J♦, J♠, A♦, 10♥, Q♣]
+Player 2's Hand = [9♠, 10♦, J♥, Q♦, 10♠]
+Player 3's Hand = [9♦, K♣, J♣, K♠, Q♥]
+Player 4's Hand = [9♣, A♣, A♥, A♠, 9♥]
+
+
+* Player 4 leads for this turn.
+
+* The dealer (Player 3) decided to NOT play alone.
+
+
+Trick 1
+
+Player 4 played A♣
+Player 1 played J♠
+Player 2 played 9♠
+Player 3 played J♣
+
+Player 3 wins Trick!!!
+
+
+
+Trick 2
+
+Player 3 played J♣
+Player 4 played 9♣
+Player 1 played Q♣
+Player 2 played 10♦
+
+Player 3 wins Trick!!!
+
+
+
+Trick 3
+
+Player 3 played K♠
+Player 4 played A♠
+Player 1 played 10♥
+Player 2 played 10♠
+
+Player 4 wins Trick!!!
+
+
+
+Trick 4
+
+Player 4 played A♥
+Player 1 played J♦
+Player 2 played J♥
+Player 3 played Q♥
+
+Player 4 wins Trick!!!
+
+
+
+Trick 5
+
+Player 4 played 9♥
+Player 1 played A♦
+Player 2 played J♥
+Player 3 played K♣
+
+Player 3 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 8
+
+Team Two's Points -> 7
+
+
+        
+        
+     TURN = 17
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  
+                
+      Player 2              Player 4
+                             Dealer
+                
+                 Player 1
+                  Lead
+
+
+
+* Player 4 deals the cards
+
+
+* Player 3 Chose Clubs
+
+Trump -> Clubs
+
+
+Player 1's Hand = [9♦, 9♠, 9♥, K♥, A♣]
+Player 2's Hand = [A♠, A♦, 10♣, K♣, Q♦]
+Player 3's Hand = [10♦, J♣, K♦, J♦, J♠]
+Player 4's Hand = [K♠, 10♠, 10♥, Q♥, Q♣]
+
+
+* Player 1 leads for this turn.
+
+* The dealer (Player 4) decided to NOT play alone.
+
+
+Trick 1
+
+Player 1 played K♥
+Player 2 played Q♦
+Player 3 played J♠
+Player 4 played 10♥
+
+Player 3 wins Trick!!!
+
+
+
+Trick 2
+
+Player 3 played J♣
+Player 4 played Q♣
+Player 1 played A♣
+Player 2 played K♣
+
+Player 3 wins Trick!!!
+
+
+
+Trick 3
+
+Player 3 played K♦
+Player 4 played K♠
+Player 1 played 9♦
+Player 2 played A♦
+
+Player 2 wins Trick!!!
+
+
+
+Trick 4
+
+Player 2 played 10♣
+Player 3 played 10♦
+Player 4 played 10♠
+Player 1 played 9♠
+
+Player 2 wins Trick!!!
+
+
+
+Trick 5
+
+Player 2 played A♠
+Player 3 played J♦
+Player 4 played Q♥
+Player 1 played 9♥
+
+Player 2 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 8
+
+Team Two's Points -> 9
+
+
+        
+        
+     TURN = 18
+-------------------------------------------------------------------------------
+        
+
+
+                 Player 3
+                  
+                
+      Player 2              Player 4
+       Lead                      
+                
+                 Player 1
+                  Dealer
+
+
+
+* Player 1 deals the cards
+
+
+* Player 2 Took Kitty
+
+Trump -> Hearts
+
+
+Player 1's Hand = [9♦, A♣, 9♥, Q♣, 10♥]
+Player 2's Hand = [K♠, K♦, J♠, Q♦, A♥]
+Player 3's Hand = [Q♥, J♥, 10♦, K♥, A♦]
+Player 4's Hand = [Q♠, 10♠, A♠, J♣, 10♣]
+
+
+* Player 2 leads for this turn.
+
+* The dealer (Player 1) decided to NOT play alone.
+
+
+Trick 1
+
+Player 2 played A♥
+Player 3 played J♥
+Player 4 played J♣
+Player 1 played 10♥
+
+Player 3 wins Trick!!!
+
+
+
+Trick 2
+
+Player 3 played J♥
+Player 4 played 10♠
+Player 1 played 9♥
+Player 2 played K♠
+
+Player 3 wins Trick!!!
+
+
+
+Trick 3
+
+Player 3 played A♦
+Player 4 played A♠
+Player 1 played 9♦
+Player 2 played Q♦
+
+Player 3 wins Trick!!!
+
+
+
+Trick 4
+
+Player 3 played K♥
+Player 4 played 10♣
+Player 1 played Q♣
+Player 2 played K♦
+
+Player 3 wins Trick!!!
+
+
+
+Trick 5
+
+Player 3 played Q♥
+Player 4 played Q♠
+Player 1 played A♣
+Player 2 played J♠
+
+Player 3 wins Trick!!!
+
+
+-----------------------
+
+Team One's Points -> 10
+
+Team Two's Points -> 9
+
+--------------------------------------------------------------------------------
+
+TEAM ONE WINS!!!!

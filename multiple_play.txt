@@ -1,0 +1,32 @@
+
+MULTI-PLAY STATISTICS
+---------------------
+
+
+NUMBER OF ROUNDS -> 4
+
+AVERAGE SCORE ->  1) Team One (Amazing)  = 9.75
+                  2) Team Two (Strategy)   = 5.50
+                  3) Both Teams           = 7.62
+    
+MEDIAN SCORES ->  1) Team One (Amazing)  = 10.00
+                  2) Team Two (Strategy)   = 4.50
+                  3) Both Teams           = 9.00
+
+HIGHEST SCORES -> 1) Team One (Amazing)  = 11.00
+                  2) Team Two (Strategy)   = 11.00
+
+LOWEST SCORES ->  1) Team One (Amazing)  = 8.00
+                  2) Team Two (Strategy)   = 2.00
+    
+    
+Team One Won 75.00% of the Time
+
+while...
+
+Team Two Won 25.00% of the Time
+
+therefore...
+
+The Amazing Team Wins 3.00 Times as Often as the Strategy Team
+    
